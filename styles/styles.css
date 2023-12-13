@@ -10,8 +10,11 @@
     --grey: hsl(232, 10%, 56%);
     --bright-pink: hsl(341, 92%, 62%);
     --light-pink: hsl(341, 100%, 83%);
-    --orangeToPink: hsl(322, 87%, 55%), hsl(13, 100%, 64%);
-    --blueToPink: hsl(237, 100%, 64%), hsl(322, 87%, 55%);
+
+    --gradientOrange: hsl(322, 87%, 55%);
+    --gradientPinkO: hsl(13, 100%, 64%);
+    --gradientBlue: hsl(237, 100%, 64%);
+    --gradientPinkB: hsl(322, 87%, 55%);
 }
 
 html {
